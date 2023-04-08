@@ -1,0 +1,22 @@
+# Original Projects
+
+These were (some of) the "early" intended targets/examples/etc for `fmsys`
+
+1. wx, etc headers
+2. py/latex etc docs
+  * auto updating?
+3. (see below)
+4. \[Computer Language\] Shootout
+  * everything automatic !?
+5. (see below)
+
+
+
+
+### Not a User Story but a Use Case
+
+3. Multiple versions alongside
+
+### Wrong project
+
+5. `apr`, `nspr`
