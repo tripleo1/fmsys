@@ -6,14 +6,31 @@ These were (some of) the "early" intended targets/examples/etc for
 =fmsys=
 
 1. wx, etc headers
-2. py/latex etc docs
+
+#+begin_quote
+Maybe a universal intermermediate format? It's all the same hits.
+
+#+end_quote
+
+2. [@2] py/latex etc docs
 
 - auto updating?
+
+#+begin_quote
+Crying because latex is a beast on Linux, let alone Windows. They moved
+to sphinx, anyway.
+
+#+end_quote
 
 3. [@3] (see below)
 4. [Computer Language] Shootout
 
 - everything automatic !?
+
+#+begin_quote
+You see the docker in kanaka/mal??
+
+#+end_quote
 
 5. [@5] (see below)
 
@@ -21,10 +38,23 @@ These were (some of) the "early" intended targets/examples/etc for
 :PROPERTIES:
 :CUSTOM_ID: not-a-user-story-but-a-use-case
 :END:
-3. [@3] Multiple versions alongside
+6. [@6] Multiple versions alongside
 
-*** Wrong project
+#+begin_quote
+Crying (this time understandably) about destructive updates during
+switching. Subvolumes, profiles, specializations. "Soft"-reboot.
+(Reboots are for losers.)
+
+#+end_quote
+
+*** (not) Wrong project
 :PROPERTIES:
-:CUSTOM_ID: wrong-project
+:CUSTOM_ID: not-wrong-project
 :END:
-5. [@5] =apr=, =nspr=
+7. [@7] =apr=, =nspr=
+
+#+begin_quote
+These are not used outside of about 10 projects. Ppl have move on to
+node and wasm (my idea, too) and ...
+
+#+end_quote
