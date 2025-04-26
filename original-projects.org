@@ -1,22 +1,30 @@
 * Original Projects
-
-These were (some of) the "early" intended targets/examples/etc for `fmsys`
+:PROPERTIES:
+:CUSTOM_ID: original-projects
+:END:
+These were (some of) the "early" intended targets/examples/etc for
+=fmsys=
 
 1. wx, etc headers
 2. py/latex etc docs
-  * auto updating?
-3. (see below)
-4. \[Computer Language\] Shootout
-  * everything automatic !?
-5. (see below)
 
+- auto updating?
 
+3. [@3] (see below)
+4. [Computer Language] Shootout
 
+- everything automatic !?
 
-*** Not a User Story but a Usecase
+5. [@5] (see below)
 
-3. Multiple versions alongside
+*** Not a User Story but a Use Case
+:PROPERTIES:
+:CUSTOM_ID: not-a-user-story-but-a-use-case
+:END:
+3. [@3] Multiple versions alongside
 
 *** Wrong project
-
-5. `apr`, `nspr`
+:PROPERTIES:
+:CUSTOM_ID: wrong-project
+:END:
+5. [@5] =apr=, =nspr=
